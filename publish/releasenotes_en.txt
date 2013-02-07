@@ -1,0 +1,20 @@
+=== Titel
+isotope: Categorize
+
+
+=== Suchbegriffe
+isotope,shop,categories,pages,products
+
+
+=== Teaser
+Assign products directly in page edit view
+
+
+=== Beschreibung
+
+
+=== Freigabe-Notizen und Änderungs-Log
+
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_iso_categorize/issues
